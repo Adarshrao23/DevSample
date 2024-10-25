@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: DevSample
-Bundle-SymbolicName: DevSample; singleton:=true
+Bundle-Name: DevSample_via_CICD
+Bundle-SymbolicName: DevSample_via_CICD; singleton:=true
 Bundle-Version: 1.0.1
 SAP-BundleType: IntegrationFlow
 SAP-NodeType: IFLMAP
@@ -32,6 +32,6 @@ Import-Package: com.sap.esb.application.services.cxf.interceptor,com.sap
  om.sap.esb.camel.jdbc.idempotency.reorg,javax.sql,org.apache.camel.proc
  essor.idempotent.jdbc,org.osgi.service.blueprint;version="[1.0.0,2.0.0)
  "
-Origin-Bundle-Name: DevSample
-Origin-Bundle-SymbolicName: DevSample
+Origin-Bundle-Name: DevSample_via_CICD
+Origin-Bundle-SymbolicName: DevSample_via_CICD
 

@@ -109,7 +109,7 @@
                 </ifl:property>
                 <ifl:property>
                     <key>urlPath</key>
-                    <value>/DevSample/test</value>
+                    <value>/DevSample_via_CICD/test</value>
                 </ifl:property>
                 <ifl:property>
                     <key>Name</key>
